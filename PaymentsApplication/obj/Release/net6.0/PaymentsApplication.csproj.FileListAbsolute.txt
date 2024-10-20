@@ -1,0 +1,30 @@
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\bin\Release\net6.0\PaymentsApplication.deps.json
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\bin\Release\net6.0\PaymentsApplication.dll
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\bin\Release\net6.0\PaymentsApplication.pdb
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\bin\Release\net6.0\PaymentsDataLayer.dll
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\bin\Release\net6.0\PaymentsDataLayer.pdb
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.csproj.AssemblyReference.cache
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.AssemblyInfoInputs.cache
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.AssemblyInfo.cs
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.csproj.CoreCompileInputs.cache
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.csproj.CopyComplete
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.dll
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\refint\PaymentsApplication.dll
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.pdb
+C:\Users\agabalayev.a\source\repos\PaymentsApplication\obj\Release\net6.0\ref\PaymentsApplication.dll
+D:\pr\Pay from terminal\PaymentsApplication\bin\Release\net6.0\PaymentsApplication.deps.json
+D:\pr\Pay from terminal\PaymentsApplication\bin\Release\net6.0\PaymentsApplication.dll
+D:\pr\Pay from terminal\PaymentsApplication\bin\Release\net6.0\PaymentsApplication.pdb
+D:\pr\Pay from terminal\PaymentsApplication\bin\Release\net6.0\PaymentsDataLayer.dll
+D:\pr\Pay from terminal\PaymentsApplication\bin\Release\net6.0\PaymentsDataLayer.pdb
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.csproj.AssemblyReference.cache
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.AssemblyInfoInputs.cache
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.AssemblyInfo.cs
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.csproj.CoreCompileInputs.cache
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.csproj.CopyComplete
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.dll
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\refint\PaymentsApplication.dll
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\PaymentsApplication.pdb
+D:\pr\Pay from terminal\PaymentsApplication\obj\Release\net6.0\ref\PaymentsApplication.dll
